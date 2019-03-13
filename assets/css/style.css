@@ -106,7 +106,8 @@ img {
 }
 
 main {
-    margin: auto;
+    margin: 125px auto;
+    overflow: auto;
     width: 80%;
     max-width: 720px;
    color: #777777;
@@ -139,6 +140,8 @@ footer {
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 8px;
     overflow: auto;
+    bottom: 0;
+    position: fixed;
     
 }
 
@@ -218,6 +221,7 @@ button:hover{
     padding: 10px;
     width: 220px;
     height: 25px;
+    z-index: 99;
 
 }
 
