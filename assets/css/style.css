@@ -47,7 +47,7 @@ header .name:hover{
         border: solid 1px #4aaaa5;
 }
 
-header , h1, h3 {
+h1, h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #4aaaa5;
 }
@@ -218,11 +218,11 @@ button:hover{
 
 .imageText{
     background: #4aaaa5;
+    color: white;
     padding: 10px;
     width: 220px;
     height: 25px;
     z-index: 99;
-
 }
 
 /* .hangmanText{
