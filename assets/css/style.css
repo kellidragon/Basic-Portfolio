@@ -14,7 +14,7 @@ header {
     width: 100%;
 }
 
-header .name{
+header .logo{
       background: #4aaaa5;
       color: #ffffff;
       height: 80px;
@@ -41,7 +41,7 @@ header a:visited{
 
 }
 
-header .name:hover{
+header .logo:hover{
         color: #4aaaa5;
         background: #ffffff;
         border: solid 1px #4aaaa5;
